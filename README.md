@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on React, Node, JavaScript, MongoDB and AWS<br>I am looking to collaborate on the full stach projects<br>
+I am currently working on React, Node, JavaScript, MongoDB and AWS<br>I am looking to collaborate on the full stack projects<br>
 
 
 # 💻 Tech Stack:
